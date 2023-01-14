@@ -11,6 +11,7 @@ pandas = "*"
 matplotlib = "*"
 seaborn = "*"
 scipy = "*"
+opencv-python = "*"
 
 [dev-packages]
 
