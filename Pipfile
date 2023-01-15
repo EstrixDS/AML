@@ -18,9 +18,9 @@ tqdm = "*"
 tensorflow = "*"
 shap = "*"
 scikit-image = "*"
-gym = "*"
 ipython = "*"
 ipykernel = "*"
+gym = "==0.25.2"
 
 [dev-packages]
 
