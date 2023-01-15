@@ -4,16 +4,25 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-numpy = "*"
-ipykernel = "*"
-rrcf = "*"
 pandas = "*"
+numpy = "*"
 matplotlib = "*"
-seaborn = "*"
 scipy = "*"
+seaborn = "*"
+scikit-learn = "*"
+statsmodels = "*"
+rrcf = "*"
+keras = "*"
 opencv-python = "*"
+tqdm = "*"
+tensorflow = "*"
+shap = "*"
+scikit-image = "*"
+gym = "*"
+ipython = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.11"
+python_version = "3.10"
+python_full_version = "3.10.9"
